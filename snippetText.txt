@@ -1,0 +1,1 @@
+<template></template>\n<script>\n\texport default{\n\t\tname: '',\n\t\tcomponents: {}.\n\t\tdata(){\n\t\t\treturn{\n\t\t\t\tdata:''\n\t\t\t};\n\t\t},\n\t\tsetup() {},\n\t\tcreated() {},\n\t\tmounted() {},\n\t\tunmounted() {},\n\t\tmethods: {}\n\t}\n</script>
